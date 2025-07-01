@@ -4,11 +4,11 @@ How to Install Eero | Step-by-Step Home WiFi Setup
 
 The eero system is a mesh Wi-Fi network that offers a reliable and user-friendly solution for improving wireless coverage throughout a home or office. With its simple setup process and intuitive mobile app, the eero install is designed to be completed without the need for professional assistance. Whether you're setting up your network for the first time or expanding your existing eero system, this guide provides a comprehensive walkthrough for a successful eero installation.
 
-.. image:: download.gif
+.. image:: install.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://getchatsupport.live/
+   :target: https://softwareinstaller.net/
   
 This documentation outlines the essential steps involved in the eero install, including hardware requirements, setup instructions, troubleshooting, and common best practices to ensure a seamless user experience.
 
